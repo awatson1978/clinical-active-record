@@ -1,12 +1,18 @@
-photonic:active-record
+clinical:active-record
 
 ===============================
 #### Installation  
 
 ````bash
-meteor add photonic:active-record
+meteor add clinical:active-record
 ````
 
+===============================
+#### Usage  
+
+````js
+
+````
 
 ===============================
 #### Licensing  
